@@ -1,0 +1,22 @@
+{
+  "name": "testes(TDD)",
+  "version": "1.0.0",
+  "description": "Clean node",
+  "main": "index.js",
+  "repository": "https://github.com/rasec23rj/testeT.git",
+  "author": "rasec23rj <jcbarcelosrj@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "13.1.6",
+    "@typescript-eslint/eslint-plugin": "2.16.0",
+    "eslint": "6.8.0",
+    "eslint-plugin-import": "2.20.0",
+    "eslint-plugin-node": "9.2.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-standard": "4.0.1",
+    "git-commit-msg-linter": "2.3.11",
+    "husky": "4.0.6",
+    "lint-staged": "9.5.0",
+    "typescript": "3.7.4"
+  }
+}
