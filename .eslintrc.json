@@ -1,9 +1,4 @@
-// {
-// 	"extends": "standard-with-typescript",
-// 	"parserOptions": {
-// 		"project": "./tsconfig.json"
-// 	}
-// }
+
 {
 	"extends": [
 		"eslint:recommended",
@@ -11,7 +6,7 @@
 		"standard-with-typescript"
 	],
 	"parserOptions": {
-		"ecmaVersion": 2020,
+		"ecmaVersion": 2019,
 		"project": "./tsconfig.json"
 	},
 	"tsconfigRootDir": "./tsconfig.json",
